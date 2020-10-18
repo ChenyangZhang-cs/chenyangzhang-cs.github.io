@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Chenyang Zhang    张晨阳
 
-You can use the [editor on GitHub](https://github.com/ChenyangZhang-cs/chenyangzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Address**: 427, Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Email**: chenyangzhang@ruc.eud.cn
 
-### Markdown
+Feng Zhang is an associate professor in Key Laboratory of Data Engineering and Knowledge Engineering and School of Information, Renmin University of China. Feng Zhang's research lies in the broad field of Heterogeneous Database Systems, Parallel and Distributed Computing, and Machine Learning. He leads the fengzi research group (subgroup of DBIIR).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Chenyang Zhang is an undergraduate in School of Information, Renmin University of China.  She joined the Key  Laboratory of Data Engineering and Knowledge Engineer (MOE) in 2019. Her research interests include high performance computing, heterogeneous computing, and parallel machine learning. 
 
-```markdown
-Syntax highlighted code block
+Education Background:
 
-# Header 1
-## Header 2
-### Header 3
+1.       Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 
-- Bulleted
-- List
+Publication:
 
-1. Numbered
-2. List
+**[ICPP’20]** “ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs”, Zheng Chen, Feng Zhang, Amelie Chi Zhou, Jidong Zhai, Chenyang Zhang, Xiaoyong Du. The 49th International Conference on Parallel Processing (ICPP 2020), 17-20 August 2020, Edmonton, AB, Canada.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChenyangZhang-cs/chenyangzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
