@@ -17,6 +17,7 @@ Sep. 2018 ~ Now: B.S. in School of Information, Renmin University of China.
 **[TPDS'21]** “Fine-Grained Multi-Query Stream Processing on Integrated Architectures", Feng Zhang, **Chenyang Zhang**, Lin Yang, Shuhao Zhang, Bingsheng He, Wei Lu, and Xiaoyong Du.
 
 **[TPDS'21]** “An Efficient Parallel Secure Machine Learning Framework on GPUs", Feng Zhang, Zheng Chen, **Chenyang Zhang**, Amelie Chi Zhou, Jidong Zhai, Xiaoyong Du.   
+
 **[TPDS'20]** “iMLBench: A Machine Learning Benchmark Suite for CPU-GPU Integrated Architectures", **Chenyang Zhang**, Feng Zhang, Xiaoguang Guo, Bingsheng He, Xiao Zhang, and Xiaoyong Du.
     
 **[ICPP’20]** “ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs”, Zheng Chen, Feng Zhang, Amelie Chi Zhou, Jidong Zhai, **Chenyang Zhang**, Xiaoyong Du.
